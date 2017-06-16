@@ -23,6 +23,7 @@ var matRouge : Material;
 
 var levelEnd : boolean;
 
+// new comment
 function Start () {
 	noir = true;
 	blancs = GameObject.FindGameObjectsWithTag("Blanc");
